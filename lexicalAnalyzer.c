@@ -1,6 +1,5 @@
 // Miles Friedman
-// HW2: Lexical Analyzer
-// COP3402 Systems Software
+
 
 #include <stdio.h>
 #include <stdlib.h>
